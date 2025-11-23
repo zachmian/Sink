@@ -27,7 +27,7 @@
       "id": "ffb41e5b76214bb7a48031744463c2ff" // IMPORTANT: Change this to your KV namespace ID
     }
   ],
-{
+
   "observability": {
     "enabled": true,
     "head_sampling_rate": 1,
@@ -43,5 +43,5 @@
       "head_sampling_rate": 1
     }
   }
-}
+
 }
